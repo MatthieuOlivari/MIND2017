@@ -22,7 +22,7 @@ Ingrédients - Ce dont nous avons besoin 
 ### Ajouter et paramétrer 
 
 - Cliquez sur l’onglet « Point » en haut à gauche.
-![Capture d'écran qui montre où trouver l'onglet "point"](img/Capture_point.png)
+![Capture d'écran qui montre où trouver l'onglet "point"](img/Capture_point.PNG)
 - Placez le point à l’endroit où se trouve votre élément.
 - Recherchez le type d’élément. Ici nous allons chercher l’élément « Arbre ».
 ![Capture d'écran qui montre la fenêtre de choix d'élément](img/Capture_Capture_choix_element.png)
